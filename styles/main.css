@@ -1,0 +1,31 @@
+.lists {
+    color: red;
+}
+
+#special {
+    color: green;
+}
+
+ol {
+    color: magenta;
+}
+
+ol li {
+    color: blue;
+}
+
+ol li#first {
+    color: yellow;
+}
+
+body ol li#first {
+    color: orange;
+}
+
+body ol li#first:hover {
+    color: black;
+}
+
+li {
+    font-size: 11px;
+}
